@@ -6,10 +6,12 @@
 
 > 🌟 A curated directory and strategic benchmark of leading **User Identity, Profile, and Account Management (CIAM / IAM)** platforms — comparing market size, valuation/scale, transparent starting tier pricing, explicit free tier limits, and top open-source self-hosted solutions.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-User-Identity-Profile-Account-Management/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-User-Identity-Profile-Account-Management)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 </div>
 
@@ -27,6 +29,8 @@
 - [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [🔍 Evaluation Criteria & Buyer Guide](#-evaluation-criteria--buyer-guide)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -246,6 +250,22 @@ Contributions are warmly welcome! If you know of an identity, user profile, or a
 2. 🌿 Create a feature branch: `git checkout -b add-identity-tool`.
 3. 📝 Add your entry to the appropriate section with correct markdown formatting and accurate star counts / pricing metrics.
 4. 🚀 Open a Pull Request with a short summary of why the platform should be included.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using this curated resource! If this project helped you discover the right IAM or CIAM platform for your stack, here is how you can support its ongoing maintenance:
+
+- ⭐ **Star this repository** on GitHub to increase its visibility.
+- 🍴 **Fork and share** it with your engineering team, peers, or communities.
+- ☕ **Buy a coffee & sponsor**: You can sponsor or support future updates directly through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-User-Identity-Profile-Account-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-User-Identity-Profile-Account-Management&type=date&legend=top-left)
 
 ---
 
